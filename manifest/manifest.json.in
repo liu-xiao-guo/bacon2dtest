@@ -1,0 +1,16 @@
+{
+    "name": "liu-xiao-guo.bacon2dtest",
+    "description": "description of bacon2dtest",
+    "architecture": "@CLICK_ARCH@",
+    "title": "bacon2dtest",
+    "hooks": {
+        "bacon2dtest": {
+            "apparmor": "bacon2dtest/bacon2dtest.apparmor",
+            "desktop":  "bacon2dtest/bacon2dtest.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+

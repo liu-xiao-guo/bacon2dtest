@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=bacon2dtest
+Exec=bacon2dtest
+Icon=bacon2dtest/bacon2dtest.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
